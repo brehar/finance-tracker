@@ -14,6 +14,7 @@ gem 'puma', '~> 3.7'
 gem 'devise'
 # Use Bootstrap and SCSS for stylesheets
 gem 'devise-bootstrap-views'
+gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'sass-rails', '~> 5.0'
 gem 'twitter-bootstrap-rails'
